@@ -1,3 +1,4 @@
+
 oi mundo
 
 Outra linha!
@@ -5,3 +6,6 @@ Outra linha!
 Mais uma linha!
 
 Fim!
+Oi, Mundo!
+
+Nova linha!
